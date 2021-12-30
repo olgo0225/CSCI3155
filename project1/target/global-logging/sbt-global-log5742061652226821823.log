@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompilerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Ident Test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Ident Test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Ident Test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Ident Test 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStackMachineTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Load Test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 248 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 14[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 14, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Oct 4, 2021, 12:50:00 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
